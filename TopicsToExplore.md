@@ -1,3 +1,7 @@
+---
+title: Document Center
+---
+
 # Topics to explore  
 
 ## C++ Area   
